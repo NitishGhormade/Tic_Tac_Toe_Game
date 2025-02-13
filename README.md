@@ -2,8 +2,6 @@
 
 Welcome to **Tic-Tac-Toe**, a fun and interactive multiplayer game built with modern web technologies! Challenge a friend or play against an AI in this classic game of strategy. 🏆
 
-![Tic-Tac-Toe Game Screenshot](https://via.placeholder.com/800x400?text=Tic-Tac-Toe+Game+Screenshot)
-
 ## 🚀 Features
 
 ✅ **Multiplayer Mode** – Play with a friend online or locally.  
